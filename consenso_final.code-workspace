@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "ultimo-teste-para-consenso"
+		},
+		{
+			"path": "../Downloads/consenso-upates-main (2)/consenso-upates-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "consenso-upates-main"
+	}
+}
